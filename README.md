@@ -36,7 +36,7 @@ __The typical customer spends $284.00 at the Shopify sneaker shops.__
 
 _(The mean of $3,145.13 does not represent the central tendency of purchases by the customers.)_
 
-<h1><center>------------------------Question 2------------------------</center></h1>   
+<h1><center>Question 2</center></h1>   
 
 For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
 
