@@ -40,7 +40,7 @@ We need a metric that is the best measure of central tendency when the data is s
 __The _median_ is generally considered to be the best representative of the central location of the data when you are dealing with skewed data.__ The more skewed the distribution, the greater the difference between the median and mean, and the greater emphasis should be placed on using the median as opposed to the mean.
 
 __Median__ = $284.00  
-_The median value is derived from the describe cell above. 50th percentile is the median._
+_The median value is derived from the describe cell in the code. 50th percentile is the median._
 
 ### c) What is its value?
 
