@@ -9,7 +9,7 @@ a) __Think about what could be going wrong with our calculation. Think about a b
 b) __What metric would you report for this dataset?__  
 c) __What is its value?__
 
-<center>---------------------------------------------Answers---------------------------------------------</center>
+<h1><center>Answers</center></h1> 
 
 ### a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 
@@ -44,7 +44,7 @@ a) __How many orders were shipped by Speedy Express in total?__
 b) __What is the last name of the employee with the most orders?__  
 c) __What product was ordered the most by customers in Germany?__  
 
-<center>---------------------------------------------Answers---------------------------------------------</center>
+<h1><center>Answers</center></h1> 
 
 ### a) How many orders were shipped by Speedy Express in total?
 
