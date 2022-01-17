@@ -25,7 +25,7 @@ c) __What is its value?__
 
 <h1><center>Answers</center></h1> 
 
-[CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question1_Code.ipynb)
+Q1 [CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question1_Code.ipynb)
 
 ### a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 
@@ -62,7 +62,7 @@ c) __What product was ordered the most by customers in Germany?__
 
 <h1><center>Answers</center></h1> 
 
-[CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question2_Code.ipynb)
+Q2 [CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question2_Code.ipynb)
 
 ### a) How many orders were shipped by Speedy Express in total?
 
