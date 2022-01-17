@@ -9,15 +9,15 @@ a) __Think about what could be going wrong with our calculation. Think about a b
 b) __What metric would you report for this dataset?__  
 c) __What is its value?__
 
-<h1><center>Data Visualization</center></h1> 
+<h2><center>Data Visualization</center></h2> 
 
 <p align="center">
-  <img width="1000" src="Visualizations/Histagram.png">
+  <img width="500" src="Visualizations/Histagram.png">
 </p>
 <p align="center">
   
  <p align="center">
-  <img width="1000" src="Visualizations/BoxPlot.png">
+  <img width="500" src="Visualizations/BoxPlot.png">
 </p>
 <p align="center">
   
