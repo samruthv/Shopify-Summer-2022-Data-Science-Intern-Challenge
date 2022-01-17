@@ -1,5 +1,5 @@
 # Shopify-Summer-2022-Data-Science-Intern-Challenge
-<h1><center>------------------------Question 1------------------------</center></h1> 
+<h1><center>Question 1</center></h1> 
 
 _Given some sample data, write a program to answer the following: click here to access the required data set_
 
