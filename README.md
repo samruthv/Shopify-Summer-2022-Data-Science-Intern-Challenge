@@ -116,3 +116,17 @@ __Output: ProductName = Boston Crab Meat, ProductID = 40__
 
 The product that was ordered the most by customers in Germany was Boston Crab Meat (ProductID = 40), with a total of 160 orders (quantity of items).
 
+
+<h1><center>------------------------Thanks!------------------------</center></h1>   
+
+__Hello Hiring Manager,__
+
+__Here is the link to my winter 2021-2022 challenge submission if you want to check it out! Lots changed since then :)__
+
+https://github.com/samruthv/Shopify_Challenge/blob/main/Shopify%20Data%20Challenge.ipynb
+
+### Resources:  
+    https://jobs.smartrecruiters.com/Shopify/743999796500238-data-science-intern-summer-2022-remote-us-canada-  
+    https://matplotlib.org/     
+    https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet  
+
