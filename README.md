@@ -12,9 +12,10 @@ c) __What is its value?__
 <h1><center>Data Visualization</center></h1> 
 
 <p align="center">
-  <img width="400" src="Visualization/Histagram.PNG">
+  <img width="400" src="Visualizations/Histagram.png">
 </p>
 <p align="center">
+  
  
 
 <h1><center>Answers</center></h1> 
