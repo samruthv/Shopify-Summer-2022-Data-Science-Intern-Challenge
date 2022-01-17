@@ -15,8 +15,7 @@ c) __What is its value?__
   <img width="400" src="Visualization/Histagram.PNG">
 </p>
 <p align="center">
-    
-    
+ 
 
 <h1><center>Answers</center></h1> 
 
