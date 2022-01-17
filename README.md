@@ -1,4 +1,4 @@
-# Shopify-Summer-2022-Data-Science-Intern-Challenge
+# [Shopify-Summer-2022-Data-Science-Intern-Challenge](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Summer%202022%20Data%20Science%20Intern%20Challenge.pdf)
 <h1><center>Question 1</center></h1> 
 
 _Given some sample data, write a program to answer the following: [click here](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Data_Set.csv) to access the required data set_
@@ -24,6 +24,8 @@ c) __What is its value?__
  
 
 <h1><center>Answers</center></h1> 
+
+[CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question1_Code.ipynb)
 
 ### a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 
@@ -59,6 +61,8 @@ b) __What is the last name of the employee with the most orders?__
 c) __What product was ordered the most by customers in Germany?__  
 
 <h1><center>Answers</center></h1> 
+
+[CODE HERE](https://github.com/samruthv/Shopify-Summer-2022-Data-Science-Intern-Challenge/blob/main/Question2_Code.ipynb)
 
 ### a) How many orders were shipped by Speedy Express in total?
 
