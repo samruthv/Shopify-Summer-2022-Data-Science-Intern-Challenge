@@ -121,7 +121,7 @@ __Output: ProductName = Boston Crab Meat, ProductID = 40__
 The product that was ordered the most by customers in Germany was Boston Crab Meat (ProductID = 40), with a total of 160 orders (quantity of items).
 
 
-<h1><center>[Thanks!](https://www.youtube.com/watch?v=mFjLkFEMhDw)</center></h1>   
+<h1><center>Thanks!</center></h1>   
 
 __Hello Hiring Manager,__
 
