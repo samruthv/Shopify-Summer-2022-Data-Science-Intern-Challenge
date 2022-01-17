@@ -9,6 +9,15 @@ a) __Think about what could be going wrong with our calculation. Think about a b
 b) __What metric would you report for this dataset?__  
 c) __What is its value?__
 
+<h1><center>Data Visualization</center></h1> 
+
+<p align="center">
+  <img width="400" src="Visualization/Histagram.PNG">
+</p>
+<p align="center">
+    
+    
+
 <h1><center>Answers</center></h1> 
 
 ### a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
